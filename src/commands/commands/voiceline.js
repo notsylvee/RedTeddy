@@ -2,7 +2,7 @@ module.exports = {
     data: {
         name: "voiceline",
         description: "Sends a random Red Teddy voiceline",
-        "integration_types": [1],
+        "integration_types": [0, 1],
         "contexts": [0, 1, 2]
     },
     async execute(interaction) {
