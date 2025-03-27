@@ -1,0 +1,24 @@
+{
+    "voicelines": [
+        { "path": "Dont_touch_me.mp3", "text": "Don't TOUCH ME!" },
+        { "path": "Anvil1.mp3", "text": "Go eat an anvil." },
+        { "path": "Idon'tlikeyou.mp3", "text": "I don't like you." },
+        { "path": "I_HATE_YOU.mp3", "text": "I HATE YOU!" },
+        { "path": "Knuckle.mp3", "text": "I have a knuckle-sandwich with your name on it." },
+        { "path": "Fullofhate.mp3", "text": "I'm full of hate." },
+        { "path": "ImHateFilled.mp3", "text": "I'm so hate-filled right now." },
+        { "path": "Anvil2.mp3", "text": "I want you to eat an anvil." },
+        { "path": "Ill.mp3", "text": "You're ill." },
+        { "path": "Youre_mentaly_ill.mp3", "text": "You're mentally ill." },
+        { "path": "Disgusted.mp3", "text": "You disgust me." },
+        { "path": "Ovenon.mp3", "text": "Your oven's on, you left your oven on." },
+        { "path": "Burn.mp3", "text": "You should burn." },
+        { "path": "YOU'RE_A_LOSER.mp3", "text": "You're a LOSER!" },
+        { "path": "I_Dont_Wanna_See_You.mp3", "text": "I don't wanna see you." },
+        { "path": "Excuse_Me.mp3", "text": "Excuse me?" },
+        { "path": "Who_Do_You_Think_You_Are.mp3", "text": "Who do you think you are?" },
+        { "path": "Whats_In_Your_Pocket_What_Did_You_Just_Put_In_Your_Pocket.mp3", "text": "What's in your pocket? What did you just put in your pocket?" },
+        { "path": "You_Would_Tell_Me_If_You_Stole_Something_Right.mp3", "text": "You would tell me if you stole something, right?" },
+        { "path": "Jump_Off_Of_A_Microwave.mp3", "text": "Jump off of a microwave." }
+    ]
+}
